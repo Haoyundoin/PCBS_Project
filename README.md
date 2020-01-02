@@ -10,7 +10,7 @@ Understanding the relationship between attention and perception, specifically th
 (This section refers to default setting values, but these can easily be modified in the code.)
 The paradigm used is an RSVP task. Each frame presents seven streams of upper-case letters (distractors) equally spaced in a circle around a central fixation cross, on a black square background. 
 
-![Image of stimulus](https://github.com/Haoyundoin/PCBS_Project/blob/master/exampleFrame.png = 0.25x)
+![Image of stimulus](https://github.com/Haoyundoin/PCBS_Project/exampleFrame.png = 0.25x)
 
 These distractors are randomly selected from the alphabet and change every 140ms but the positions of the streams of letters remained the same within the same trial. For each trial, 30 frames are presented, within which two integers (targets), T1 and T2, are randomly chosen from 2-9 and their position is arbitrarily determined every time. (1 is omitted due to its resemblance to the letter I). The targets appear between frames 10 and 25 (so that they are flanked by frames showing distractors only). The time gap between T1 one T2 varies from 1 to 6 frames (149-840ms), and their relative positions change every trial, to measure the effect of temporal and spatial properties on the attentional blink effect.
 
