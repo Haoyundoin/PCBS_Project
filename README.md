@@ -1,6 +1,5 @@
 # PCBS_Project: The Attentional Blink in Visual Perception
 ## Table of Contents 
-- [PCBS_Project: The Attentional Blink in Visual Perception](#pcbs-project--the-attentional-blink-in-visual-perception)
   * [Table of Contents](#table-of-contents)
   * [Background](#background)
   * [Aim](#aim)
@@ -14,7 +13,6 @@
   * [Future Directions](#future-directions)
   * [References](#references)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Background 
 The role of attention and how it acts as a filter for visual perception has long been a topic of interest in psychology. Previous experiments showed effects such as inattentional blindness, whereby a stimulus or a change in the stimulus are not perceived in moments of inattention, suggest attention is necessary for perception. Subsequent experiments investigating how attention modulates perception reported periods of inattention in Rapid Serial Visual Presentation (RSVP), as detection of a second target was poor if it is presented within a certain time interval following the first target, a phenomenon which the research group coined “attentional blink” (Raymond, Shapiro & Arnell, 1992). This suggests the presence of a refractory period after presentation of a target, during which we are blind to any new targets presented. This experiment is adapted from a paper by Kristjansson and Nakayama, where they design a paradigm to investigate the attentional blink (Kristjánsson & Nakayama, 2002). They made an experiment to look at time and also spatial relationships between the targets. The space variable in perception is interesting as visual attention is often referred to as “spotlight-like”, meaning a gaussian curve applies to focus and resolution, which is maximal at the centre and falls in the edges of visual attention. 
